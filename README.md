@@ -1,1 +1,1 @@
-Chat Application using Socket.IO, NodeJS and ReactJS
+Realtime Chat Application with React on the front end, NodeJS + Socket.io web socket library on the back end.
